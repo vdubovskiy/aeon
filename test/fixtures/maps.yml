@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  population: 1
+  area: 1
+  type: 
+  stage: MyString
+
+two:
+  name: MyString
+  population: 1
+  area: 1
+  type: 
+  stage: MyString
